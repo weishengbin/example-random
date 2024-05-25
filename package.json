@@ -1,6 +1,6 @@
 {
   "name": "example-random",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/weishengbin/example-random"
+    "url": "https://github.com/weishengbin/example-random.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "google": "^2.1.0",
-    "truffle": "^5.11.5",
+    "check-evm-balance": "^1.0.4",
     "web3": "^4.5.0"
   },
   "devDependencies": {
     "mocha": "^10.1.0"
-  }
+  },
+  "homepage": "https://github.com/weishengbin/example-random#readme"
 }
